@@ -1,4 +1,11 @@
-### Hi there 👋
+### Ola! 👋
+
+Sou o Mateus. <br>
+15 anos. <br>
+Cursando o 2°ano do ensino medio!<br>
+Estudando Java scrpit e PHP<br>
+Fazendo um curso de desenvolvimento web (HTML 5, CSS 3, Java Script, PHP, API...)<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateushrocha&show_icons=true&theme=tokyonight)
 
