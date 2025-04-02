@@ -2,8 +2,8 @@
 
 Sou o Mateus. <br>
 17 anos. <br>
-Cursando Analise Desenvolvimento de Sitemas!<br>
-Estudando Java scrpit e PHP<br>
+Cursando Engenharia de Software!<br>
+Estudando Java scrpit e Python <br>
 Fazendo um curso de desenvolvimento web (HTML 5, CSS 3, Java Script, PHP, API...)<br>
 
 
