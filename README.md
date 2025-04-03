@@ -3,7 +3,7 @@
 Sou o Mateus. <br>
 17 anos. <br>
 Cursando Engenharia de Software!<br>
-Estudando Java scrpit e Python <br>
+Estudando Python <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateushrocha&show_icons=true&theme=tokyonight)
