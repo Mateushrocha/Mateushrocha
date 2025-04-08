@@ -29,6 +29,7 @@ Tive a oportunidade de atuar como **Jovem Aprendiz Administrativo**, onde desenv
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/mateushenriquerocha/)
+- rochamateush@gmail.com
 - Aqui mesmo no GitHub!
 
 ---
