@@ -14,7 +14,6 @@ Tive a oportunidade de atuar como **Jovem Aprendiz Administrativo**, onde desenv
 
 - 🌱 Estudando: JavaScript (avançando do básico ao intermediário)
 - 🛠️ Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
-- 📚 Projeto acadêmico recente: Estudo sobre os **impactos da Inteligência Artificial no mercado de trabalho**, com uso do algoritmo Apriori em ambiente simulado
 
 ---
 
