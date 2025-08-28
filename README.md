@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Engenharia de Software** com grande interesse em **desenvolvimento de software, dados e mobile**.  
+Sou estudante de **Engenharia de Software** com grande interesse em **desenvolvimento de software e dados**.  
 Atualmente estou me aprofundando em **Python**, além de já ter uma boa base em **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
 
 Tive a oportunidade de atuar como **Jovem Aprendiz Administrativo**, onde desenvolvi soft skills como organização, proatividade e trabalho em equipe — habilidades que aplico também na área da tecnologia.  
