@@ -1,53 +1,59 @@
-# 👋 Olá, eu sou o Mateus!
+# Olá, eu sou o Mateus!
 
 🎓 Estudante de Engenharia de Software  
-💼 Experiência em ambiente administrativo  
-💻 Focado em Desenvolvimento de Software  
+💻 Focado em desenvolvimento backend e análise de dados  
+📊 Experiência com Python, SQL, automações e visualização de dados
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de **Engenharia de Software** com grande interesse em **desenvolvimento de software e dados**.  
-Atualmente estou me aprofundando em **Python**, além de já ter uma boa base em **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
-
-Tive a oportunidade de atuar como **Jovem Aprendiz Administrativo**, onde desenvolvi soft skills como organização, proatividade e trabalho em equipe — habilidades que aplico também na área da tecnologia.  
-
-- 🌱 Estudando: Python (focado em aprofundamento e aplicações práticas)  
-- 🛠️ Tecnologias: `Python`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`  
+Atualmente atuo com automações em Python, consultas SQL e criação de dashboards para análise de dados, contribuindo para a otimização de processos e apoio à tomada de decisão. Tenho interesse em desenvolvimento backend e soluções orientadas a dados.
 
 ---
 
-## 💡 Áreas de Interesse
+## ⚙️ Tecnologias e Ferramentas
 
-- Desenvolvimento de Software  
-- Área de Dados  
-- Cibersegurança  
-- Desenvolvimento Mobile  
-
----
-
-## 📫 Vamos nos conectar?
-
-- [LinkedIn](https://www.linkedin.com/in/mateushenriquerocha/)  
-- [rochamateush@gmail.com](mailto:rochamateush@gmail.com)  
-- Aqui mesmo no GitHub!  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="Metabase" height="40" width="50" src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 ---
 
-## ⚡ Curiosidades
+## 📂 Projetos
 
-- Estou sempre em busca de desafios que me façam evoluir  
-- Quero contribuir com projetos reais e gerar impacto positivo através da tecnologia!  
+🚧 Em desenvolvimento...  
+Em breve adicionarei projetos focados em automações, backend e análise de dados.
 
 ---
 
-Obrigado por visitar meu perfil! ⭐  
-<br>
+## 🎯 Objetivo
+
+Me desenvolver como desenvolvedor backend e profissional de dados, aplicando tecnologia para resolver problemas reais e gerar valor através de soluções eficientes.
+
+---
+
+## 📊 GitHub Stats
 
 <div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="45" width="45" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000">
-  <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://github.com/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
+
+---
+
+## 📫 Contato
+
+📎 LinkedIn: (coloque seu link aqui)  
+📧 Email: (coloque seu email aqui)
+
+---
