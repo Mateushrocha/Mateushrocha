@@ -1,7 +1,7 @@
 # Olá, eu sou o Mateus!
 
 🎓 Estudante de Engenharia de Software  
-💻 Focado em desenvolvimento backend e análise de dados  
+💻 Focado em desenvolvimento de software e análise de dados  
 📊 Experiência com Python, SQL, automações e visualização de dados
 
 ---
