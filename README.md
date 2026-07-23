@@ -23,15 +23,15 @@ Estou cursando Engenharia de Software, e sou apaixonado pela area de dados
 
 ## ⚙️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Database" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
-<img align="center" alt="PowerBI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Metabase" height="40" width="50" src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
+  <img align="center" alt="Airflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Power BI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Claude" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Claude_AI_logo.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
----
