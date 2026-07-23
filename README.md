@@ -2,6 +2,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Focado Engenharia de dados
+
 📊 Experiência com Python, SQL, automações e visualização de dados
 
 ---
