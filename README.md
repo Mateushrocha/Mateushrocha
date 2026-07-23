@@ -1,14 +1,15 @@
 # Olá, eu sou o Mateus!
 
 🎓 Estudante de Engenharia de Software  
-💻 Focado em desenvolvimento de software e análise de dados  
+💻 Focado Engenharia de dados
 📊 Experiência com Python, SQL, automações e visualização de dados
 
 ---
 
 ## 🧠 Sobre mim
 
-Atualmente atuo com dados, manipulando dados com Python e SQL, e criando vizualizações com Power BI alem de criar apresentações gerencias. Curso a faculdade de Engenharia de Software, e sou completamente apaixonado por tecnologia e dados.
+Atualmente trabalho na Beep Saúde onde tenho a oportunidade de atuar com mapulação e tratamento de dados, automações, visaulizações de dados e muito mais.
+Estou cursando Engenharia de Software, e sou apaixonado pela area de dados
 
 ---
 
