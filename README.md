@@ -30,7 +30,7 @@ Estou cursando Engenharia de Software, e sou apaixonado pela area de dados
   <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Power BI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Claude" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Claude_AI_logo.svg">
+<img align="center" alt="Claude" height="40" width="50" src="https://cdn.simpleicons.org/claude/D97757">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
