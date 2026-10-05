@@ -38,8 +38,6 @@ class Mateus:
 
 Sou estagiário em **Operações** e, dentro do estágio, meu foco é **dados e IA**. Estou estudando **Engenharia de Dados**, e é para lá que estou levando a minha carreira.
 
-> 🔒 A maior parte do meu trabalho está em repositórios privados. Os números abaixo incluem essas contribuições, sem expor nenhum projeto.
-
 <!-- ══════════════════ TECNOLOGIAS ══════════════════ -->
 <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=100000&color=00E676&vCenter=true&repeat=false&width=420&height=36&lines=%E2%80%BA+Tecnologias" alt="Tecnologias"/></h2>
 
