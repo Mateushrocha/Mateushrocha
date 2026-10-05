@@ -38,6 +38,8 @@ class Mateus:
 
 Sou estagiário em **Operações** e, dentro do estágio, meu foco é **dados e IA**. Estou estudando **Engenharia de Dados**, e é para lá que estou levando a minha carreira.
 
+> 🔒 A maior parte do meu trabalho está em repositórios privados. Os números abaixo incluem essas contribuições, sem expor nenhum projeto.
+
 <!-- ══════════════════ TECNOLOGIAS ══════════════════ -->
 <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=100000&color=00E676&vCenter=true&repeat=false&width=420&height=36&lines=%E2%80%BA+Tecnologias" alt="Tecnologias"/></h2>
 
@@ -54,29 +56,12 @@ Sou estagiário em **Operações** e, dentro do estágio, meu foco é **dados e 
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTY3NiI+PHBhdGggZD0iTTEzIDIgNCAxNGg3bC0xIDggOS0xMmgtN3oiLz48L3N2Zz4=" alt="Automações"/>
 </p>
 
-<!-- ══════════════════ PROJETOS (descomente quando quiser) ══════════════════
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=100000&color=00E676&vCenter=true&repeat=false&width=420&height=36&lines=%E2%80%BA+Projetos" alt="Projetos"/></h2>
-
-<p align="center">
-  <a href="https://github.com/Mateushrocha/NOME-DO-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateushrocha&repo=NOME-DO-REPO-1&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&border_color=1F2937" alt="Projeto 1"/>
-  </a>
-  <a href="https://github.com/Mateushrocha/NOME-DO-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateushrocha&repo=NOME-DO-REPO-2&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&border_color=1F2937" alt="Projeto 2"/>
-  </a>
-</p>
-═══════════════════════════════════════════════════════════════════════════ -->
-
 <!-- ══════════════════ ESTATÍSTICAS ══════════════════ -->
 <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=100000&color=00E676&vCenter=true&repeat=false&width=420&height=36&lines=%E2%80%BA+Estat%C3%ADsticas" alt="Estatísticas"/></h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mateushrocha&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&border_color=1F2937&ring_color=00E676" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateushrocha&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&border_color=1F2937" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mateushrocha&locale=pt_BR&background=0D1117&border=1F2937&stroke=1F2937&ring=00E676&fire=00E676&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E676&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Mateushrocha&show_icons=true&count_private=true&hide=stars&locale=pt-br&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&border_color=1F2937&ring_color=00E676&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="GitHub Stats"/>
+  <img height="175" src="https://streak-stats.demolab.com?user=Mateushrocha&locale=pt_BR&background=0D1117&border=1F2937&stroke=1F2937&ring=00E676&fire=00E676&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E676&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
 <!-- ══════════════════ ATIVIDADE ══════════════════ -->
