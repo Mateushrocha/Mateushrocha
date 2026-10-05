@@ -15,30 +15,15 @@
   <img src="https://img.shields.io/github/followers/Mateushrocha?label=Seguidores&style=for-the-badge&logo=github&logoColor=00E676&color=000000&labelColor=000000" alt="Seguidores"/>
 </p>
 
----
+## Sobre mim
 
-## `> whoami`
+Sou estagiário em **Operações**, com foco em **IA e dados**.
 
-```python
-class Mateus:
-    nome  = "Mateus Henrique da Rocha"
-    cargo = "Estagiário em Operações"
-    foco  = ["IA", "Dados", "Automações"]
+- 🎯 **Foco:** IA aplicada e dados
+- ⚙️ **Interesse:** automação de processos
+- 🤝 **Contato:** [LinkedIn](https://www.linkedin.com/in/mateushenriquerocha/)
 
-    def stack(self):
-        return {
-            "linguagens":  ["Python", "JavaScript", "HTML"],
-            "dados":       ["Pandas", "Airflow", "Power BI"],
-            "infra":       ["Docker"],
-            "ia":          ["Claude"],
-        }
-```
-
-Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manual, entender onde ele trava e transformar em pipeline, script ou automação.
-
----
-
-## `> stack --list`
+## Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E676" alt="Python"/>
@@ -54,7 +39,7 @@ Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manu
 </p>
 
 <!-- ══════════════════ PROJETOS (descomente quando quiser) ══════════════════
-## `> ls ./projetos`
+## Projetos
 
 <p align="center">
   <a href="https://github.com/Mateushrocha/NOME-DO-REPO-1">
@@ -66,9 +51,7 @@ Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manu
 </p>
 ═══════════════════════════════════════════════════════════════════════════ -->
 
----
-
-## `> git log --stats`
+## Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mateushrocha&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&border_color=1F2937&ring_color=00E676" alt="GitHub Stats"/>
@@ -83,17 +66,13 @@ Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateushrocha&bg_color=0D1117&color=C9D1D9&line=00E676&point=FFFFFF&area=true&area_color=00E676&title_color=00E676&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" alt="Activity Graph"/>
 </p>
 
----
-
-## `> trophies --show`
+## Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mateushrocha&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies"/>
 </p>
 
----
-
-## `> snake --eat contributions`
+## Contribuições
 
 <p align="center">
   <picture>
@@ -103,9 +82,7 @@ Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manu
   </picture>
 </p>
 
----
-
-## `> contact`
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateushenriquerocha/">
@@ -115,7 +92,7 @@ Trabalho em Operações com foco em **IA e dados**. Gosto de pegar processo manu
 
 <!-- ══════════════════ RODAPÉ ══════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00E676&center=true&vCenter=true&width=420&lines=%24+exit+0+%E2%80%94+obrigado+pela+visita" alt="Footer typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00E676&center=true&vCenter=true&width=420&lines=Obrigado+pela+visita!" alt="Footer typing"/>
 </p>
 
 <p align="center">
